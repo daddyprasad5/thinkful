@@ -1,0 +1,27 @@
+Name,Label,Question Text,Description,Category
+year,Gss year for this respondent                       ,,,
+conrinc,Respondent income in constant dollars,Inflation-adjusted personal income.,,
+coninc,Family income in constant dollars,Inflation-adjusted family income.,,
+careself,Those in need have to take care of themselves,"Please tell me whether you strongly agree, agree, neither agree nor disagree, disagree, or strongly disagree with the following statements:
+B. Those in need have to learn to take care of themselves and not depend on others",,
+givchrty,R has given money to a charity,"During the past 12 months, how often have you done each of the following things: 
+F. Given money to a charity",,
+volchrty,R done volunteer work for a charity,"During the past 12 months, how often have you done each of the following things: 
+E. Done volunteer work for a charity",,
+empathy4,Others misfortunes do not disturb r,"The following statements ask about your thoughts and feelings in various situations. For each item indicate how well it describes you by choosing the number on the showcard where 1 indicates that it does not describe you very well  and 5 means that it does describe you very well. Of course numbers 2-4 indicate that how well it describes you are In between these points.
+D. Other people's misfortunes do not usually disturb me a great deal.",,
+empathy3,R feels protective towards people taken advantage,"The following statements ask about your thoughts and feelings in various situations. For each item indicate how well it describes you by choosing the number on the showcard where 1 indicates that it does not describe you very well  and 5 means that it does describe you very well. Of course numbers 2-4 indicate that how well it describes you are In between these points.
+C. When I see someone being taken advantage of, I feel kind of protective towards them.",,
+empathy2,R does not feel very sorry for people having pro,"The following statements ask about your thoughts and feelings in various situations. For each item indicate how well it describes you by choosing the number on the showcard where 1 indicates that it does not describe you very well  and 5 means that it does describe you very well. Of course numbers 2-4 indicate that how well it describes you are In between these points.
+B. Sometimes I don't feel very sorry for other people when they are having problems.",,
+empathy1,R have tender feeling for people less fortunate,"The following statements ask about your thoughts and feelings in various situations. For each item indicate how well it describes you by choosing the number on the showcard where 1 indicates that it does not describe you very well  and 5 means that it does describe you very well. Of course numbers 2-4 indicate that how well it describes you are In between these points.
+A. I often have tender, concerned feelings for people less fortunate than me.",,
+educ,Highest year of school completed,"ASK ALL PARTS OF QUESTION ABOUT RESPONDENT BEFORE GOING ON TO ASK ABOUT R'S FATHER; AND THEN R'S MOTHER; THEN R'S SPOUSE, IF R IS CURRENTLY MARRIED. 
+A. What is the highest grade in elementary school or high school that (you/your father/ your mother/your [husband/wife]) finished and got credit for? CODE EXACT GRADE. 
+B. IF FINISHED 9th-12th GRADE OR DK*: Did (you/he/she) ever get a high school diploma or a GED certificate? [SEE D BELOW.] [See REMARKS] 
+C. Did (you/he/she) complete one or more years of college for credit--not including schooling such as business college, technical or vocational school? IF YES: How many years did (you/he/she) complete? 
+ Do you (Does [he/she]) have any college degrees? (IF YES: What degree or degrees?) CODE HIGHEST DEGREE EARNED.",,
+age,Age of respondent,RESPONDENT'S AGE,,
+marital,Marital status,"Are you currently--married, widowed, divorced, separated, or have you never been married?",,
+id_,Respondent id number,,,
+ballot,Ballot used for interview,Ballot Administered.,,
